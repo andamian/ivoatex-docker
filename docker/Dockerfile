@@ -58,6 +58,7 @@ RUN apt-get update && apt-get -yq install \
     pdftk \
     pdf2svg \
     python-is-python3 \
+    python3-requests \
     texlive-latex-extra \
     texlive-bibtex-extra \
     vim \
